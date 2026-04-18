@@ -23,11 +23,12 @@ python -m streamlit run app/dashboard.py
 Acesse em `http://localhost:8501`
 
 
-Insights dos dados
+Insights dos dados:
+
 Canaã dos Carajás (PA) lidera o PIB per capita municipal — sede da Mina S11D da Vale, maior mina de minério de ferro do mundo
 DF lidera o PIB per capita estadual — menor território com alta concentração de servidores federais
 SP tem o maior PIB total, representando ~30% da economia nacional
 RS aparece entre os top 5 em PIB total e top 4 em PIB per capita médio estadual
 
-Fonte dos dados
+Fonte dos dados:
 API SIDRA — Sistema IBGE de Recuperação Automática. Dados públicos, sem necessidade de cadastro ou token.
